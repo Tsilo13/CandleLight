@@ -25,3 +25,6 @@ Thumbs.db
 data/*.csv
 data/*.xlsx
 
+# API keys etc.
+.env
+
